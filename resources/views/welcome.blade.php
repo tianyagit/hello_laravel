@@ -36,7 +36,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hi Laravel! - by Tianya</div>
+                <div class="title">你好 Laravel! - by Tianya</div>
             </div>
         </div>
     </body>
